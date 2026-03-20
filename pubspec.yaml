@@ -1,0 +1,12 @@
+name: flutter_dashboard_app
+description: Simple dashboard app for interview
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
